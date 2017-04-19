@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_start_noti"
+        android:title="Enable Notifications"
+        showAsAction="never"/>
+    <item android:id="@+id/action_stop_noti"
+        android:title="Disable Notifiations"
+        showAsAction="never"/>
+</menu>
